@@ -31,7 +31,7 @@ Diabetes Management: George receives low-carb meal suggestions and carb/glycemic
 Muscle Building: Rose, a strength-training enthusiast, follows high-protein meal plans aligned with her workout data.
 
 # 🎯 Use Cases
-Daily diet planning
+Daily diet planning.
 
 Fitness and health tracking
 
