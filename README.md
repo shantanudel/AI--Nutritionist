@@ -33,11 +33,11 @@ Muscle Building: Rose, a strength-training enthusiast, follows high-protein meal
 # 🎯 Use Cases
 Daily diet planning.
 
-Fitness and health tracking
+Fitness and health tracking.
 
-Personalized nutrition guidance
+Personalized nutrition guidance.
 
-Educational purposes for ML/NLP application
+Educational purposes for ML/NLP application.
 
 # 🧠 Powered by Gemini Pro
 At the core of Nutritionist AI is Gemini Pro, enabling smart, adaptive responses that evolve with the user’s habits and progress.
