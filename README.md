@@ -1,5 +1,5 @@
 🥗 AI Nutritionist
-# 📌 OVERVIEW: AI Nutritionist is a machine learning-powered dietary assistant that provides personalized nutrition recommendations based on user input. The system analyzes eating habits, nutritional needs, and health goals to generate smart meal suggestions and actionable insights.
+# 📌 OVERVIEW: AI Nutritionist is a machine learning-powered dietary assistant that provides personalized nutrition recommendations based on user input. The system analyzes eating habits, nutritional needs, and health goals to generate smart meal suggestions & actionable insights.
 
 Designed with a modular and scalable architecture, the project aims to simplify daily diet planning and promote healthier lifestyle choices through intelligent automation.
 
